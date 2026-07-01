@@ -1,15 +1,31 @@
 # Research Notes
 
-This section contains informal philosophical notes, observations, questions, and developing ideas.
+Research Notes contains preliminary philosophical observations, conceptual sketches, questions, and developing arguments.
 
-Unlike working papers, these notes are exploratory and may later develop into full research papers.
+Unlike Working Papers, these notes are exploratory. They document ideas under development before they are expanded into full philosophical essays.
 
 ---
 
 ## Current Notes
 
-*No notes have been published yet.*
+### 1. Motivation and the Is–Ought Distinction
+Exploring whether motivational explanations can remain entirely descriptive without making normative claims.
+
+### 2. Primary vs Secondary Motivational Systems
+Developing clearer criteria for distinguishing motivational systems that directly prescribe behavior from psychological factors that modify motivational weighting.
+
+### 3. Meaning as a Primary Motivation
+Examining whether meaning should be regarded as irreducible or explained through other motivational structures.
+
+### 4. Motivational Competition in Extreme Environments
+Notes and observations inspired by historical case studies such as the Kolyma labor camps.
 
 ---
 
-> "Every mature theory begins as an unfinished thought."
+## Future Notes
+
+This section will expand as ongoing research develops.
+
+---
+
+> "Research begins with questions that are not yet ready to become papers."
