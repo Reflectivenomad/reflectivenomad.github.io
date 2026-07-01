@@ -14,10 +14,10 @@ Rather than presenting finished conclusions, this repository serves as a living 
 
 ## Explore
 
-- 📄 Working Papers
-- 🧠 Concepts
-- 📚 Research Notes
-- 🔬 Thought Experiments
+- 📄 [Working Papers](working-papers.md)
+- 🧠 Concepts *(coming soon)*
+- 📚 Research Notes *(coming soon)*
+- 🔬 Thought Experiments *(coming soon)*
 
 ---
 
