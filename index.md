@@ -74,9 +74,15 @@ Books, papers, and philosophical works that inform the continuing development of
 
 ---
 
+### 📖 Comparative Studies
+
+Reflective investigations examining the relationship between the Interpretive Motivational Systems Framework and major traditions in philosophy, psychology, and cognitive science.
+
+- [Comparative Studies](/comparative-studies/)
+
 ### ℹ️ About
 
-Background, research interests, and the aims of the Interpretive Motivational Systems Framework.
+-Background, research interests, and the aims of the Interpretive Motivational Systems Framework.
 
 - [About](/about/)
 - ## Current Focus
