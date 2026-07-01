@@ -33,20 +33,22 @@ Applies the motivational framework to Varlam Shalamov's accounts of the Kolyma l
 
 ---
 
-## Current Research
+## Research Areas
 
-### Interpretive Motivational Systems Framework (IMSF)
+### 📒 Research Notes
 
-**Objective:** To develop a descriptive philosophical account of how competing motivations produce a single realized behavior.
+Exploratory philosophical investigations related to the Interpretive Motivational Systems Framework.
 
-**Current Stage:** Working Paper (Version 0.1)
+- [Motivation and the Is–Ought Distinction](/research-notes/is-ought/)
+- [Primary vs. Secondary Motivational Systems](/research-notes/primary-vs-secondary/)
+- [Meaning as a Primary Motivation](/research-notes/meaning-as-primary/)
+- [Motivational Competition in Extreme Environments](/research-notes/extreme-environments/)
 
-**Current Questions:**
-- Are there exactly three primary motivational systems?
-- Is the distinction between primary and secondary systems coherent?
-- How should motivational weighting be understood?
-- Which existing philosophical theories offer the strongest objections?
+### 📚 Reading
+Books informing current research.
 
+### ℹ️ About
+Mission and research direction.
 **Next Planned Papers:**
 - Motivational Competition: A Philosophical Proposal ✓
 - Motivational Analysis of the Kolyma Camps ✓
