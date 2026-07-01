@@ -6,11 +6,8 @@ These papers are intended to explore ideas, test arguments, and refine conceptua
 
 ---
 
-## Current Papers
-
-1. Interpretive Motivational Systems Framework (IMSF)
-
-*Status: In development*
+## Current Papers Working Papers
+    └── Motivational Competition: Toward a Philosophical Theory of Behavioral Realization
 
 ---
 
