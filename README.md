@@ -2,8 +2,7 @@
 
 *Independent Philosophy Research & Working Papers*
 
-[Home](README.md) | [About](about.md) | [Working Papers](working-papers.md) | Research Notes | Reading List
-
+[Home](README.md) | [About](about.md) | [Working Papers](working-papers.md) | [Research Notes](research-notes.md) | [Reading List](reading-list.md)
 ---
 
 ## Welcome
