@@ -21,11 +21,12 @@ Rather than presenting finished conclusions, this site serves as a living archiv
 
 ## Browse
 
+## Browse
+
 - 📄 [Working Papers](working-papers.md)
 - ℹ️ [About](about.md)
-- 📝 Research Notes *(coming soon)*
-- 📚 Reading List *(coming soon)*
-
+- 📝 [Research Notes](research-notes.md)
+- 📚 [Reading List](reading-list.md)
 ---
 
 > "Understanding begins not with certainty, but with the willingness to question."
