@@ -33,37 +33,58 @@ Applies the motivational framework to Varlam Shalamov's accounts of the Kolyma l
 
 ---
 
-## Research Areas
+## Research Archive
+
+The Interpretive Motivational Systems Framework is organised as an evolving research programme. Rather than presenting only finished conclusions, this archive documents the gradual development of ideas—from preliminary investigations and working papers to reading notes and the history of the framework itself.
+
+---
+
+### 📄 Working Papers
+
+Formal philosophical manuscripts presenting developed arguments and theoretical proposals.
+
+- [Working Papers](/working-papers/)
+
+---
 
 ### 📒 Research Notes
 
-Exploratory philosophical investigations related to the Interpretive Motivational Systems Framework.
+Exploratory philosophical investigations, conceptual sketches, and developing research questions.
 
 - [Motivation and the Is–Ought Distinction](/research-notes/is-ought/)
 - [Primary vs. Secondary Motivational Systems](/research-notes/primary-vs-secondary/)
 - [Meaning as a Primary Motivation](/research-notes/meaning-as-primary/)
 - [Motivational Competition in Extreme Environments](/research-notes/extreme-environments/)
 
-### 📚 Reading
-Books informing current research.
+---
 
-### ℹ️ About
-Mission and research direction.
-**Next Planned Papers:**
-- Motivational Competition: A Philosophical Proposal ✓
-- Motivational Analysis of the Kolyma Camps ✓
-- Agency and Motivational Weighting
-- Meaning as a Primary Motivation
+### 📝 Development Log
+
+A chronological record of the evolution of the framework, documenting conceptual breakthroughs, theoretical revisions, and significant milestones.
+
+- [Development Log](/development-log/)
 
 ---
+
 ### 📚 Reading
+
+Books, papers, and philosophical works that inform the continuing development of the framework.
 
 - [Reading](/reading/)
 
-### ℹ️ About
-
-- [About](/about/)
-
 ---
 
-> "Understanding begins not with certainty, but with the willingness to question."
+### ℹ️ About
+
+Background, research interests, and the aims of the Interpretive Motivational Systems Framework.
+
+- [About](/about/)
+- ## Current Focus
+
+Current research is centred on:
+
+- Formalising the architecture of motivational systems.
+- Distinguishing primary and secondary motivational systems.
+- Investigating meaning as a potential primary motivation.
+- Examining motivational competition in extreme environments.
+- Developing a purely descriptive philosophy of motivation.
