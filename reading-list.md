@@ -4,24 +4,38 @@ This page documents books that are informing my philosophical research and curre
 
 ---
 
+# Reading List
+
+This page documents books that are informing my philosophical research and current projects.
+
+---
+
 ## Current Reading
 
-1. *The Problems of Philosophy* — Bertrand Russell
-2. *Euthyphro* — Plato
-3. *Apology* — Plato
-4. *Crito* — Plato
-5. *Phaedo* — Plato
-6. *Symposium* — Plato
+1. *Euthyphro* — Plato
+2. *Apology* — Plato
+3. *Crito* — Plato
+4. *Phaedo* — Plato
+5. *Symposium* — Plato
+6. *The Republic* — Plato
+7. *Nicomachean Ethics* — Aristotle
+8. *Leviathan* — Thomas Hobbes
+9. *The Ego and the Id* — Sigmund Freud
+10. *Affective Neuroscience* — Jaak Panksepp
+
+---
+
+## Recently Completed
+
+- ✓ *The Problems of Philosophy* — Bertrand Russell
+- ✓ *On the Genealogy of Morality* (also translated as *On the Genealogy of Morals*) — Friedrich Nietzsche
 
 ---
 
 ## Future Reading
 
-*This section will expand as my research develops.*
+This section will expand as my research develops.
 
 ---
-## Completed Reading
-
-- ✓ *The Problems of Philosophy* — Bertrand Russell
 
 > "Reading philosophy is not about collecting opinions, but refining questions."
