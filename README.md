@@ -1,7 +1,7 @@
 # Reflective Nomad
 
 *Independent philosophy and research working papers.*
-[Home](README.md) | [Working Papers](working-papers.md) | Concepts | Research Notes | Thought Experiments
+[Home](README.md) | [About](about.md) | [Working Papers](working-papers.md) | Concepts | Research Notes | Thought Experiments
 
 ---
 
