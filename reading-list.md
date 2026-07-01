@@ -4,12 +4,6 @@ This page documents books that are informing my philosophical research and curre
 
 ---
 
-# Reading List
-
-This page documents books that are informing my philosophical research and current projects.
-
----
-
 ## Current Reading
 
 1. *Euthyphro* — Plato

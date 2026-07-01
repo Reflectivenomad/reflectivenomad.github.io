@@ -1,8 +1,3 @@
----
-layout: default
-title: About
----
-
 # About Reflective Nomad
 
 ## Mission
@@ -28,10 +23,8 @@ Ideas are treated as evolving models that improve through discussion, evidence, 
 
 ## Current Research
 
-- [Interpretive Motivational Systems Framework](working-papers/) (IMSF)
+- Interpretive Motivational Systems Framework (IMSF)
 
 ---
-
-**[← Back to Home](index.md)**
 
 > "Understanding begins not with certainty, but with the willingness to question."

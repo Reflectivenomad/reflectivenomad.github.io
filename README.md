@@ -14,10 +14,10 @@ Rather than presenting finished conclusions, this site serves as a **living arch
 
 ## Browse
 
-- **[📄 Working Papers](working-papers/)** — Developed philosophical arguments in manuscript form
-- **[📝 Research Notes](research-notes/)** — Preliminary observations and developing ideas
-- **[📚 Reading](reading/)** — Books informing current research
-- **[ℹ️ About](about.md)** — Mission and research areas
+- 📄 [**Working Papers**](working-papers.md) — Developed philosophical arguments in manuscript form
+- 📝 [**Research Notes**](research-notes.md) — Preliminary observations and developing ideas
+- 📚 [**Reading List**](reading-list.md) — Books informing current research
+- ℹ️ [**About**](about.md) — Mission and research areas
 
 ---
 
