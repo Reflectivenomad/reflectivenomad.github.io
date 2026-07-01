@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Motivational Competition In Extreme Environments
+title: Motivational Competition in Extreme Environments
+permalink: /research-notes/extreme-environments/
 ---
 Motivational Competition in Extreme Environments
 Research Question
