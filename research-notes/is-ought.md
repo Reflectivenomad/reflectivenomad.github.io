@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Motivation and the Is–Ought Distinction
+permalink: /research-notes/is-ought/
 ---
 # Motivation and the Is–Ought Distinction
 Motivation and the Is–Ought Distinction
