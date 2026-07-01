@@ -19,3 +19,11 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
+
+# Global defaults - ensure all pages use layout: default
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
