@@ -2,7 +2,7 @@
 
 ### A Motivational Analysis of the Kolyma Camps Through Varlam Shalamov's *What I Saw and Learned in the Kolyma Camps*
 
-**Status:** Working Paper
+**Status:** Working Paper 1
 
 **Version:** 0.1
 
