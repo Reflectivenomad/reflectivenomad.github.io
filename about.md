@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # About Reflective Nomad
 
 ## Mission
@@ -27,6 +32,6 @@ Ideas are treated as evolving models that improve through discussion, evidence, 
 
 ---
 
-**[← Back to Home](README.md)**
+**[← Back to Home](index.md)**
 
 > "Understanding begins not with certainty, but with the willingness to question."

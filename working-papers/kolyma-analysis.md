@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kolyma Analysis
+---
+
 # Motivational Analysis of the Kolyma Camps
 
 A Motivational Analysis Through Varlam Shalamov's *What I Saw and Learned in the Kolyma Camps*
@@ -107,4 +112,4 @@ If this interpretation is correct, then the deepest philosophical lesson of Koly
 
 ---
 
-**[← Working Papers](README.md)** | **[Research Notes →](../research-notes/)**
+**[← Working Papers](index.md)** | **[Research Notes →](../research-notes/)**

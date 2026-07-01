@@ -1,3 +1,8 @@
+---
+layout: default
+title: Motivational Competition
+---
+
 # On Motivational Competition: A Philosophical Proposal
 
 **Working Paper 1**
@@ -91,4 +96,4 @@ The purpose of sharing this work at its current stage is not to seek agreement b
 
 ---
 
-**[← Working Papers](README.md)** | **[Research Notes →](../research-notes/)**
+**[← Working Papers](index.md)** | **[Research Notes →](../research-notes/)**
