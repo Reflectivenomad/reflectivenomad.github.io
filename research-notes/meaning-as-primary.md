@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Meaning As a Primary Motivation
+title: Meaning as a Primary Motivation
+permalink: /research-notes/meaning-as-primary/
 ---
 Meaning as a Primary Motivation
 Research Question
