@@ -3,9 +3,6 @@
    Professional philosophy journal design
    ======================================== */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
-
 :root {
   --color-primary: #0d3b66;
   --color-accent: #1e5a8e;
