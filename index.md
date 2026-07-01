@@ -56,12 +56,13 @@ Mission and research direction.
 - Meaning as a Primary Motivation
 
 ---
+### 📚 Reading
 
-## Research Areas
+- [Reading](/reading/)
 
-- **[📝 Research Notes](research-notes/)** — Preliminary observations and developing ideas
-- **[📚 Reading](reading/)** — Books informing current research
-- **[ℹ️ About](about.md)** — Mission and research direction
+### ℹ️ About
+
+- [About](/about/)
 
 ---
 
