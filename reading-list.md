@@ -1,18 +1,27 @@
 # Reading List
 
-This page documents books, papers, and authors that have influenced or are currently informing my research.
+This page documents books that are informing my philosophical research and current projects.
 
-## Philosophy
-
-- Friedrich Nietzsche
-- David Hume
-- Immanuel Kant
-- Arthur Schopenhauer
-
-## Psychology
-
-- (To be added)
+---
 
 ## Current Reading
 
-- (To be added)
+1. *The Problems of Philosophy* — Bertrand Russell
+2. *Euthyphro* — Plato
+3. *Apology* — Plato
+4. *Crito* — Plato
+5. *Phaedo* — Plato
+6. *Symposium* — Plato
+
+---
+
+## Future Reading
+
+*This section will expand as my research develops.*
+
+---
+## Completed Reading
+
+- ✓ *The Problems of Philosophy* — Bertrand Russell
+
+> "Reading philosophy is not about collecting opinions, but refining questions."
