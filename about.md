@@ -21,6 +21,12 @@ Ideas are treated as evolving models that improve through discussion, evidence, 
 - Epistemology
 - Conceptual analysis
 
+## Current Research
+
+- [Interpretive Motivational Systems Framework](working-papers/) (IMSF)
+
 ---
+
+**[← Back to Home](README.md)**
 
 > "Understanding begins not with certainty, but with the willingness to question."
