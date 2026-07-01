@@ -1,27 +1,32 @@
 # Reflective Nomad
 
-*Independent philosophy and research working papers.*
-[Home](README.md) | [About](about.md) | [Working Papers](working-papers.md) | Concepts | Research Notes | Thought Experiments
+*Independent Philosophy Research & Working Papers*
+
+[Home](README.md) | [About](about.md) | [Working Papers](working-papers.md) | Research Notes | Reading List
 
 ---
 
 ## Welcome
 
-Reflective Nomad is an independent philosophical workspace dedicated to developing, testing, and refining ideas through open inquiry.
+Reflective Nomad is an independent philosophy research workspace dedicated to developing, testing, and refining philosophical ideas.
 
-Rather than presenting finished conclusions, this repository serves as a living archive of working papers, conceptual frameworks, and ongoing research.
+Rather than presenting finished conclusions, this site serves as a living archive of working papers, research notes, and ongoing inquiry.
 
 ---
 
-## Explore
+## Current Research
+
+- Interpretive Motivational Systems Framework (IMSF)
+
+---
+
+## Browse
 
 - 📄 [Working Papers](working-papers.md)
-- 🧠 Concepts *(coming soon)*
-- 📚 Research Notes *(coming soon)*
-- 🔬 Thought Experiments *(coming soon)*
+- ℹ️ [About](about.md)
+- 📝 Research Notes *(coming soon)*
+- 📚 Reading List *(coming soon)*
 
 ---
 
-## Guiding Principle
-
-> Every conclusion remains open to revision through better reasoning and evidence.
+> "Understanding begins not with certainty, but with the willingness to question."
