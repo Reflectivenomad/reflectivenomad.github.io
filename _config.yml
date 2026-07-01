@@ -1,0 +1,21 @@
+title: Reflective Nomad
+description: Independent Philosophy Research & Working Papers
+theme: jekyll-theme-minimal
+
+# GitHub Pages
+url: "https://reflectivenomad.github.io"
+baseurl: ""
+
+# Site settings
+lang: en
+
+# Markdown processor
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude files from site
+exclude:
+  - .gitignore
+  - README.md
