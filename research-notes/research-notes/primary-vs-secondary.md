@@ -1,9 +1,8 @@
-
 ---
 layout: default
-title: Primary vs Secondary Motivational Sytems
+title: Primary vs. Secondary Motivational Systems
+permalink: /research-notes/primary-vs-secondary/
 ---
-
 Primary vs. Secondary Motivational Systems
 Research Question
 What distinguishes a motivational system that directly prescribes behavior from a psychological factor that merely modifies behavioral prioritization?
