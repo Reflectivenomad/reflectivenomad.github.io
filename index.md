@@ -32,6 +32,13 @@ Applies the motivational framework to Varlam Shalamov's accounts of the Kolyma l
 **[Read Paper →](kolyma-analysis.md)**
 
 ---
+## Layered Motivational Systems Theory
+
+### [Layered Motivational Systems Theory](/theory/)
+
+*A working paper presenting an interpretive framework for understanding how multiple motivations become organised into coherent behaviour.*
+
+---
 
 ## Research Archive
 
