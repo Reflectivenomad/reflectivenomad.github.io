@@ -8,6 +8,8 @@ permalink: /thinking-alongside/nietzsche/
 
 ## Thinking with Friedrich Nietzsche
 
+*Research notes: February 2026*
+
 I have always found it easier to explain why people pursue something than to explain why they value it in the first place.
 
 The difference sounds almost insignificant until one lingers over it.
