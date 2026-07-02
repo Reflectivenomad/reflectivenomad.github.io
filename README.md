@@ -38,6 +38,20 @@ Unlike the Working Papers, these notes are exploratory. They record developing a
 Browse the full Research Notes collection:
 
 **https://reflectivenomad.github.io/research-notes/**
+### [Research Notes](/research-notes/)
+
+---
+
+### [Thinking Alongside...](/thinking-alongside/)
+
+Essays written in conversation with philosophers, psychologists, and neuroscientists whose ideas have shaped the development of the Interpretive Motivational Systems Framework.
+
+---
+
+### [Development Log](/development-log/)
+
+...
+
 - 📚 [**Reading List**](reading-list.md) — Books informing current research
 - ℹ️ [**About**](about.md) — Mission and research areas
 
