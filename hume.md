@@ -8,6 +8,8 @@ permalink: /thinking-alongside/hume/
 
 ## Thinking with David Hume
 
+*Research notes: 20–27 June 2026*
+
 It has become almost impossible for me to discuss motivation without someone eventually asking whether a particular motivation is good, bad, rational or irrational.
 
 The transition happens so naturally that I often fail to notice it until the conversation has already changed.
