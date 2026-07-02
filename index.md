@@ -83,32 +83,31 @@ These are not summaries or comparisons. They are records of thinking through oth
 
 ### Essays
 
-### 1. Thinking With Plato  
-*When Did We Become More Than One?* 
-(/thinking-alongside/plato/)
+### 1. [Thinking With Plato](/thinking-alongside/plato/)
+
+*When Did We Become More Than One?*
 
 ---
 
-### 2. Freud Refuses to Leave 
-/thinking-alongside/freud/
+### 2. [Freud Refuses to Leave](/thinking-alongside/freud/)
 
 ---
 
-### 3. The Self That Refuses to Stay Still  
-*Thinking with Gilles Deleuze*  
-(/thinking-alongside/deleuze/)
+### 3. [The Self That Refuses to Stay Still](/thinking-alongside/deleuze/)
+
+*Thinking with Gilles Deleuze*
 
 ---
 
-### 4. The Mind Never Thinks Alone  
-*Thinking with Shawn Gallagher*  
-(/thinking-alongside/gallagher/)
+### 4. [The Mind Never Thinks Alone](/thinking-alongside/gallagher/)
+
+*Thinking with Shawn Gallagher*
 
 ---
 
-### 5. What Makes a Motivation Primary?  
-*Thinking with Jaak Panksepp*  
-(/thinking-alongside/panksepp/)
+### 5. [What Makes a Motivation Primary?](/thinking-alongside/panksepp/)
+
+*Thinking with Jaak Panksepp*
 
 ### ℹ️ About
 
