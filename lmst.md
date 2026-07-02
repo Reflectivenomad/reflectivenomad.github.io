@@ -53,7 +53,7 @@ The framework proposed in this paper begins from this organisational problem. It
 
 > **How do multiple motivations become organised into a single behavioural outcome?**
 
- # 2. The Proposal
+# 2. The Proposal
 
 Layered Motivational Systems Theory (LMST) is proposed as an interpretive framework for understanding how multiple motivations become organised into coherent behaviour. Rather than asking where motivations originate or whether particular actions are morally justified, the framework addresses a different problem: the organisation of motivational plurality.
 
