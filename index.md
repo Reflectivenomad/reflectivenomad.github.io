@@ -90,7 +90,7 @@ These are not summaries or comparisons. They are records of thinking through oth
 ---
 
 ### 2. Freud Refuses to Leave 
-(/thinking-alongside/freud/)
+/thinking-alongside/freud/
 
 ---
 
