@@ -73,12 +73,42 @@ Books, papers, and philosophical works that inform the continuing development of
 - [Reading](/reading/)
 
 ---
+## Thinking Alongside...
 
-### 📖 Comparative Studies
+A series of philosophical essays written in conversation with major thinkers. Each piece begins with another philosopher’s ideas and gradually turns into a reflection on the questions their work leaves open.
 
-Reflective investigations examining the relationship between the Interpretive Motivational Systems Framework and major traditions in philosophy, psychology, and cognitive science.
+These are not summaries or comparisons. They are records of thinking through other minds.
 
-- [Comparative Studies](/comparative-studies/)
+---
+
+### Essays
+
+### 1. Thinking With Plato  
+*When Did We Become More Than One?*  
+→ /thinking-alongside/plato/
+
+---
+
+### 2. Freud Refuses to Leave  
+→ /thinking-alongside/freud/
+
+---
+
+### 3. The Self That Refuses to Stay Still  
+*Thinking with Gilles Deleuze*  
+→ /thinking-alongside/deleuze/
+
+---
+
+### 4. The Mind Never Thinks Alone  
+*Thinking with Shawn Gallagher*  
+→ /thinking-alongside/gallagher/
+
+---
+
+### 5. What Makes a Motivation Primary?  
+*Thinking with Jaak Panksepp*  
+→ /thinking-alongside/panksepp/
 
 ### ℹ️ About
 
