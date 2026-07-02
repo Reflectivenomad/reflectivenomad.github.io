@@ -8,6 +8,8 @@ permalink: /thinking-alongside/evolution/
 
 ## Thinking with Evolutionary Psychology
 
+*Research notes: March 2026*
+
 There is a peculiar habit in philosophy.
 
 When two theories speak about the same subject, we immediately assume they must be competing.
