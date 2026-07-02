@@ -9,12 +9,6 @@ permalink: /thinking-alongside/plato/
 
 ## When Did We Become More Than One?
 
-...
-
-# Thinking With Plato
-
-## When Did We Become More Than One?
-
 There is something strangely comforting about discovering that a question which has occupied your thoughts for months has already occupied someone else's for centuries.
 
 I did not return to Plato because I was looking for historical support. In fact, I tried not to. Philosophy becomes much less interesting the moment ancient thinkers are reduced to witnesses for modern arguments. I returned to him because I found myself repeatedly asking an embarrassingly old question.
